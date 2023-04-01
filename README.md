@@ -1,0 +1,2 @@
+# GukaszRepository
+Kozminski_Python_introduction
